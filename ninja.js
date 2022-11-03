@@ -1,20 +1,20 @@
 #!/usr/bin/node
 
-class Ninja{
-    constructor(name, rank, power){ 
+class Ninja {
+    constructor(name, rank, power) {
         this.name = name;
         this.rank = rank;
         this.power = power;
     }
 
-    iam(){
+    iam() {
         console.log("i am " + this.name + " i am the " + this.rank);
     }
 }
 
 class Leaf extends Ninja {
 
-    iam(){
+    iam() {
         super.iam()
         console.log("from the Leaf Village")
     }
@@ -22,7 +22,7 @@ class Leaf extends Ninja {
 
 class Sand extends Ninja {
 
-    iam(){
+    iam() {
         super.iam()
         console.log("from the Sand Village")
     }
