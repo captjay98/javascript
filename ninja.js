@@ -30,5 +30,5 @@ class Sand extends Ninja {
 naruto = new Leaf('Naruto', 'Hokage', 999);
 naruto.iam();
 
-gaara = new Sand('gaara', 'Hokage', 950);
+gaara = new Sand('gaara', 'kage', 950);
 gaara.iam();
