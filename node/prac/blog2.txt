@@ -1,0 +1,2754 @@
+uhkufeBNGREN;KJBGRDvij;pkgeraejnikGWEVI JBKGIJwe;ki
+wefriujboGRUINUGREWPE
+JINKBGERIAHQJGHIJVwihjREPG;
+wegvojnGEROJIBNGREioj
+WGEJONIgewrunjiGREIONP
+GerwijhbREBIHJE
+GERWVIJNERijn
+VEKJI Nerdvjik 
+
+// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New
+      // const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------Ne// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New
+// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New
+// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------Newconst fs = require("fs");
+// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New
+// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+??? from here until ???END lines may have been inserted/deleted
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("File Deleted");
+  // })
+// }
+
+
+const rs = fs.createReadStream("./node/blog.txt");
+
+rs.on("data", (chunk) => {
+  console.log("------New// const set = setTimeout(()=>{
+  // console.log("iN THE TIMEOUT");
+  // clearInterval(int);
+// }, 3000);
+
+// const int = setInterval(() => {
+  // console.log("In the Interval");
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+// const ages = [12, 13, 14, 15];
+// const names = ["Naruto", "sasuke"]
+// module.exports = {
+  // ages:ages,
+// names:names}
+
+// const os = require("os");
+// console.log(os.platform(), os.homedir());
+
+
+const fs = require("fs");
+
+// fs.readFile("./node/test.txt", (err, data) => {
+  // if (err){
+    // console.log(err);
+  // }
+  // console.log(data.toString());
+// });
+
+ // fs.writeFile("./node/test.txt", "Hello World!", ()=> {
+  // console.log("File Written.")})
+
+// if (!fs.existsSync('./node/assets')) {
+  // fs.mkdir("./node/assets", (err) => {
+    // if (err){
+      // console.log(err);
+    // }
+    // console.log("Folder Created");
+  // });
+// } else {
+  // fs.rmdir("./node/assets", (err) => {
+    // if (err) {
+      // console.log(err);
+    // }
+    // console.log("Folder Deleted");
+  // })
+// }
+
+
+// if (fs.existsSync("./node/delete.txt")){
+  // fs.unlink("./node/delete.txt", (err) => {
+    // if (err) {
+???END
